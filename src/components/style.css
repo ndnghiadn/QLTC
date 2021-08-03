@@ -1,0 +1,26 @@
+.mt-15 {
+    margin-top: 30px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.styleTitleFont {
+    font-size: 17px;
+    font-family: 'Hahmlet', serif;
+  }
+
+.styleTimeFont {
+    color:  #149414;
+    font-size: 25px;
+    font-family: 'Just Another Hand', cursive;
+}
+
+.AddForm--Label {
+    font-weight: bold;
+}
+
+.count {
+    color: red;
+}

@@ -1,0 +1,30 @@
+.mt-70 {
+  margin-top: 70px;
+}
+
+.mt-2 {
+  margin-top: 2px;
+}
+
+.ml--15 {
+  margin-left: -15px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-35 {
+  margin-top: 35px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.styleHandFont {
+  font-size: 75px;
+  font-family: 'Just Another Hand', cursive;
+}

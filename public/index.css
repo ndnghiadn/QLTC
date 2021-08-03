@@ -1,0 +1,10 @@
+@font-face {
+    font-weight: bold;
+    font-family: handFont;
+    src: url(fonts/BetterGrade-519DV.ttf);
+  }
+
+@font-face {
+  font-family: timeFont;
+  src: url(fonts/digital-7.ttf);
+}
